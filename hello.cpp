@@ -1,7 +1,8 @@
-#include <iostream.h>
+#include <iostream>
+using namespace std;
 
-main()
+int main()
 {
-    cout << "Hello World!";
+    cout << "Hello World! CPP\n";
     return 0;
 }
